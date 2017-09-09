@@ -1,0 +1,32 @@
+.page_tradeindex {
+  background: #f2f2f4;
+  overflow: hidden;
+}
+.page_tradeindex ul li {
+  width: 94%;
+  display: inline-block;
+  padding: 12px 3%;
+  margin: 6px 3%;
+  background: #fff;
+  float: left;
+  box-sizing: border-box;
+}
+.page_tradeindex ul li > div .fist {
+  font-size: 38px;
+  float: left;
+}
+.page_tradeindex ul li > div span {
+  color: #2d2d2d;
+  font-size: 1.1em;
+  padding: 0 0 0 10px;
+  line-height: 40px;
+  float: left;
+}
+.page_tradeindex ul li > div .two {
+  float: right;
+  line-height: 40px;
+  /*position: absolute;*/
+  /*right: 0;*/
+  /*font-size: 2em;*/
+  /*top: 7px;*/
+}
